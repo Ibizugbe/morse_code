@@ -25,6 +25,9 @@ To get a local copy up and running follow these simple example steps.
 
 • LinkedIn: [Elizabeth Oyinlade Ojesanmi](https://www.linkedin.com/in/elizabeth-oyinlade-ojesanmi-0702aa16a)
 
+-👤 **Abraham Ibizugbe**
+- GitHub: [githubhandle](https://github.com/Ibizugbe)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abraham-ibizugbe-763791115/)
 
 
 ## 🤝 Contributing
